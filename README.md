@@ -1,4 +1,4 @@
-<h1 id="title" align="center">TermFolio</h1>
+<h1 id="title" align="center">TerminalFolio</h1>
 
 <h3 align="center">:desktop_computer: A Portfolio Website that looks and acts like a Terminal :computer:</h3>
 
