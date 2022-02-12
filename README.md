@@ -5,7 +5,7 @@
 <p align="center">
   <a href="#title"><img src="https://forthebadge.com/images/badges/made-with-javascript.svg"></a>
   <a href="#title"><img src="https://forthebadge.com/images/badges/built-with-love.svg"></a>
-  <a href="#title"><img src="https://forthebadge.com/images/badges/designed-in-ms-paint.svg"></a>
+<!--   <a href="#title"><img src="https://forthebadge.com/images/badges/designed-in-ms-paint.svg"></a> -->
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 <h1 id="preview" align="center">Preview</h1>
 <p align="center">
-  <a href="https://ahsankhan.me/TermFolio"><img src="https://forthebadge.com/images/badges/check-it-out.svg"></a>
+  <a href="https://adoring-edison-82b67f.netlify.app/"><img src="https://forthebadge.com/images/badges/check-it-out.svg"></a>
 </p>
 
 <h1 id="setup">Setup</h1>
