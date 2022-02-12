@@ -12,15 +12,15 @@ var data = {
   github: [
     {name: 'GitHub', value: 'Keshav-babu'}
   ],
-  projects: [
-    {name: 'Book Blog', value: 'https://github.com/ahsankhan26/Book-Blog'},
-    {name: 'Bomberman Replica', value: 'https://github.com/ahsankhan26/Bomberman-Replica'},
-    {name: 'WhatsApp Chat Parser', value: 'https://github.com/ahsankhan26/Whatsapp-Chat-Parser'},
-    {name: 'Laser Data Transmission', value: 'https://github.com/ahsankhan26/Laser-Data-Transmission'},
-    {name: 'Color Guessing Game', value: 'https://github.com/ahsankhan26/Color-Guessing-Game'},
-    {name: 'GPA Calculator', value: 'https://github.com/ahsankhan26/gpa-calculator'},
-    {name: 'Hello World but unnecessarily complex', value: 'https://github.com/ahsankhan26/hello-world'}
-  ],
+  // projects: [
+  //   {name: 'Book Blog', value: 'https://github.com/ahsankhan26/Book-Blog'},
+  //   {name: 'Bomberman Replica', value: 'https://github.com/ahsankhan26/Bomberman-Replica'},
+  //   {name: 'WhatsApp Chat Parser', value: 'https://github.com/ahsankhan26/Whatsapp-Chat-Parser'},
+  //   {name: 'Laser Data Transmission', value: 'https://github.com/ahsankhan26/Laser-Data-Transmission'},
+  //   {name: 'Color Guessing Game', value: 'https://github.com/ahsankhan26/Color-Guessing-Game'},
+  //   {name: 'GPA Calculator', value: 'https://github.com/ahsankhan26/gpa-calculator'},
+  //   {name: 'Hello World but unnecessarily complex', value: 'https://github.com/ahsankhan26/hello-world'}
+  // ],
   resume: 'Keshav_resume.pdf',
   socials: [
     {name: 'LinkedIn', value: 'https://www.linkedin.com/in/keshav-mandal-403a61145/'},
