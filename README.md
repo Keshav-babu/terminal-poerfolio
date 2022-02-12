@@ -23,10 +23,11 @@ Just clone the repository and update the data.js file
 
 ```ruby
 # Clone this repository
-$ git clone https://github.com/ahsankhan26/TermFolio.git
+$ git clone https://github.com/Keshav-babu/terminal-poerfolio.git
 
 # Go to the repository folder
-$ cd TermFolio
+$ cd 
+terminal-poerfolio
 
 # Open the file(data.js)
 ```
@@ -60,7 +61,7 @@ var data = {
 }
 ```
 
-<h1 id="tools">Made Using :wrench:</h1>
+<!-- <h1 id="tools">Made Using :wrench:</h1> -->
 
 * HTML
 * CSS
